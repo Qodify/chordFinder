@@ -1,0 +1,52 @@
+[
+  {
+    "isWhite": true,
+    "note": "C"
+  },
+  {
+    "isWhite": false,
+    "note": "C#"
+  },
+  {
+    "isWhite": true,
+    "note": "D"
+  },
+  {
+    "isWhite": false,
+    "note": "D#"
+  },
+  {
+    "isWhite": true,
+    "note": "E"
+  },
+  
+  {
+    "isWhite": true,
+    "note": "F"
+  },
+  {
+    "isWhite": false,
+    "note": "F#"
+  },
+  {
+    "isWhite": true,
+    "note": "G"
+  },
+  {
+    "isWhite": false,
+    "note": "G#"
+  },
+  {
+    "isWhite": true,
+    "note": "A"
+  },
+  {
+    "isWhite": false,
+    "note": "A#"
+  },
+  {
+    "isWhite": true,
+    "note": "B"
+  }
+
+]

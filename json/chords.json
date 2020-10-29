@@ -1,0 +1,325 @@
+[
+  {
+    "name": "major",
+    "notations": [
+      "",
+      "M",
+      "maj"
+    ],
+    "intervals": [
+      4,
+      3
+    ]
+  },
+  {
+    "name": "minor",
+    "notations": [
+      "-",
+      "m",
+      "min"
+    ],
+    "intervals": [
+      3,
+      4
+    ]
+  },
+  {
+    "name": "augmented",
+    "notations": [
+      "+",
+      "#5",
+      "+5",
+      "aug"
+    ],
+    "intervals": [
+      4,
+      4
+    ]
+  },
+  {
+    "name": "diminished",
+    "notations": [
+      "°",
+      "♭5",
+      "°5",
+      "dim"
+    ],
+    "intervals": [
+      3,
+      3
+    ]
+  },
+  {
+    "name": "majorSeventh",
+    "notations": [
+      "Δ",
+      "Δ7",
+      "M7",
+      "maj7",
+      "Maj7"
+    ],
+    "intervals": [
+      4,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "minorSeventh",
+    "notations": [
+      "min7",
+      "m7",
+      "-7"
+    ],
+    "intervals": [
+      3,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "dominantSeventh",
+    "notations": [
+      "7"
+    ],
+    "intervals": [
+      4,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "diminishedSeventh",
+    "notations": [
+      "°7",
+      "dim7",
+      "m(♭7)♭5",
+      "-(♭7)♭5"
+    ],
+    "intervals": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "halfDiminishedSeventh",
+    "notations": [
+      "ø",
+      "ø7",
+      "min7dim5",
+      "m7♭5",
+      "m7o5",
+      "−7♭5",
+      "−7o5"
+    ],
+    "intervals": [
+      3,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "seventhFlatFive",
+    "notations": [
+      "7♭5",
+      "C7dim5"
+    ],
+    "intervals": [
+      4,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "augmentedSeventh",
+    "notations": [
+      "+7",
+      "aug7",
+      "7♯5",
+      "7+5"
+    ],
+    "intervals": [
+      4,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "augmentedMajorSeventh",
+    "notations": [
+      "+M7",
+      "+Δ",
+      "augmaj7",
+      "M7♯5",
+      "M7+5",
+      "MΔ#5",
+      "MΔ+5"
+    ],
+    "intervals": [
+      4,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "minorMajorSeventh",
+    "notations": [
+      "mM7",
+      "m♯7",
+      "−M7",
+      "−Δ",
+      "minmaj7"
+    ],
+    "intervals": [
+      3,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "majorNinth",
+    "notations": [
+      "M9",
+      "Δ9",
+      "maj9"
+    ],
+    "intervals": [
+      4,
+      3,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "dominantNinth",
+    "notations": [
+      "9"
+    ],
+    "intervals": [
+      4,
+      3,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "dominantMinorNinth",
+    "notations": [
+      "7♭9"
+    ],
+    "intervals": [
+      4,
+      3,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "minorMajorNinth",
+    "notations": [
+      "mM9",
+      "−M9",
+      "minmaj9"
+    ],
+    "intervals": [
+      3,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "minorNinth",
+    "notations": [
+      "m9",
+      "−9",
+      "min9"
+    ],
+    "intervals": [
+      3,
+      4,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "augmentedMajorNinth",
+    "notations": [
+      "+M9",
+      "Caugmaj9",
+      "min9"
+    ],
+    "intervals": [
+      4,
+      4,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "augmentedDominantNinth",
+    "notations": [
+      "+9",
+      "9♯5",
+      "Caug9"
+    ],
+    "intervals": [
+      4,
+      4,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "halfDiminishedNinth",
+    "notations": [
+      "ø9"
+    ],
+    "intervals": [
+      3,
+      3,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "halfDiminishedMinorNinth",
+    "notations": [
+      "ø♭9"
+    ],
+    "intervals": [
+      3,
+      3,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "diminishedNinth",
+    "notations": [
+      "o9",
+      "dim9"
+    ],
+    "intervals": [
+      3,
+      3,
+      5,
+      3
+    ]
+  },
+  {
+    "name": "diminishedNinth",
+    "notations": [
+      "o♭9",
+      "dim♭9"
+    ],
+    "intervals": [
+      3,
+      3,
+      5,
+      2
+    ]
+  }
+  
+]
